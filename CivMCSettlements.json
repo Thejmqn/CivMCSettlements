@@ -88,7 +88,7 @@
 		}
 	],
 	"features": [
-	  {
+	{
 		"Name": "Mount Augusta",
 		"x": 3052,
 		"z": 2234,
@@ -105,8 +105,8 @@
 		"id": 1,
 		"Notes": "",
 		"Nickname": "MtA"
-	  },
-	  {
+	},
+	{
 		"Name": "Suramir",
 		"x": 0,
 		"z": 0,
@@ -123,8 +123,8 @@
 		"id": 2,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Ohio",
 		"x": -2285,
 		"z": 8474,
@@ -141,8 +141,8 @@
 		"id": 3,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Providence",
 		"x": -1686,
 		"z": -4408,
@@ -159,8 +159,8 @@
 		"id": 4,
 		"Notes": "Ruin",
 		"Nickname": "RI"
-	  },
-	  {
+	},
+	{
 		"Name": "City of Pavia",
 		"x": 752,
 		"z": -3041,
@@ -177,8 +177,8 @@
 		"id": 5,
 		"Notes": "",
 		"Nickname": "Pavia"
-	  },
-	  {
+	},
+	{
 		"Name": "Kallopolis",
 		"x": -921,
 		"z": -3528,
@@ -195,8 +195,8 @@
 		"id": 6,
 		"Notes": "Ruin",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Altepetl",
 		"x": 7609,
 		"z": -737,
@@ -212,9 +212,9 @@
 		"Zoom Visibility": 1,
 		"id": 7,
 		"Notes": "Trenched City and Capital of Yoahtl",
-		"Nickname": "Yoahtl"
-	  },
-	  {
+		"Nickname": ""
+	},
+	{
 		"Name": "Homeland",
 		"x": 6420,
 		"z": -1806,
@@ -231,8 +231,8 @@
 		"id": 8,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Capitum",
 		"x": 6011,
 		"z": -2554,
@@ -245,12 +245,12 @@
 		"Wiki": "",
 		"Symbol": "",
 		"Visitors": "welcome",
-		"Zoom Visibility": 2,
+		"Zoom Visibility": 4,
 		"id": 9,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Duskwood City",
 		"x": 8662,
 		"z": 1501,
@@ -267,8 +267,8 @@
 		"id": 10,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Kobylinski",
 		"x": 6956,
 		"z": -1431,
@@ -281,12 +281,12 @@
 		"Wiki": "",
 		"Symbol": "",
 		"Visitors": "welcome",
-		"Zoom Visibility": 2,
+		"Zoom Visibility": 3,
 		"id": 11,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Exilus",
 		"x": 4854,
 		"z": -1960,
@@ -303,8 +303,8 @@
 		"id": 12,
 		"Notes": "Trenched City",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Lambat City",
 		"x": 3900,
 		"z": -1350,
@@ -321,8 +321,8 @@
 		"id": 13,
 		"Notes": "Divided into districts, see wiki article for Lambat for more info.",
 		"Nickname": "L-City"
-	  },
-	  {
+	},
+	{
 		"Name": "Icenia City",
 		"x": -3863,
 		"z": -4345,
@@ -339,8 +339,8 @@
 		"id": 14,
 		"Notes": "",
 		"Nickname": "Icenia"
-	  },
-	  {
+	},
+	{
 		"Name": "Birmingham",
 		"x": 2673,
 		"z": 4573,
@@ -357,8 +357,8 @@
 		"id": 15,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Aldenfult",
 		"x": 2450,
 		"z": 4900,
@@ -375,8 +375,8 @@
 		"id": 16,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Blockchainistan",
 		"x": 6680,
 		"z": -3349,
@@ -393,12 +393,12 @@
 		"id": 17,
 		"Notes": "Ruin",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Blacklight",
 		"x": 7056,
 		"z": -2801,
-		"Nation": "Unclaimed (built By Gang Shi)",
+		"Nation": "Gang Shi",
 		"Contact": "TolypeVelleda",
 		"image": "",
 		"image_album": "",
@@ -407,12 +407,12 @@
 		"Wiki": "",
 		"Symbol": "",
 		"Visitors": "welcome",
-		"Zoom Visibility": 4,
+		"Zoom Visibility": 2,
 		"id": 18,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Portucale",
 		"x": 7936,
 		"z": 3997,
@@ -429,9 +429,9 @@
 		"id": 19,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
-		"Name": "Classicade",
+	},
+	{
+		"Name": "Classicale",
 		"x": 8553,
 		"z": 3641,
 		"Nation": "Lusitania",
@@ -447,8 +447,8 @@
 		"id": 20,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Letos City",
 		"x": 4849,
 		"z": -2708,
@@ -465,62 +465,62 @@
 		"id": 21,
 		"Notes": "Abandoned",
 		"Nickname": ""
-	  },
-	  {
-		"Name": "Zephyria",
-		"x": 9450,
-		"z": -750,
+	},
+	{
+		"Name": "Zephyr",
+		"x": 5917,
+		"z": -2258,
 		"Nation": "Zephyria",
 		"Contact": "Pqrrot",
 		"image": "",
 		"image_album": "",
-		"Discord": "",
+		"Discord": "https://discord.gg/MX6SYstRhG",
 		"Web": "",
 		"Wiki": "",
-		"Symbol": "https://media.discordapp.net/attachments/1118751993775804577/1118760971989692487/Zephyria_CoA.png?width=559&height=676",
+		"Symbol": "https://cdn.discordapp.com/attachments/615435534981922826/1131551236915740742/ZephyriaFlagSmall.png",
 		"Visitors": "welcome",
 		"Zoom Visibility": 2,
 		"id": 22,
-		"Notes": "",
-		"Nickname": ""
-	  },
-	  {
+		"Notes": "Capital City of Zephyria",
+		"Nickname": "Zephyria"
+	},
+	{
 		"Name": "Surmadri",
 		"x": -4830,
 		"z": 7320,
-		"Nation": "Surmadri (Imperial Federation)",
+		"Nation": "Surmadri",
 		"Contact": "Blu9710",
 		"image": "https://civwiki.org/wiki/Walled_City_of_Surmadri",
 		"image_album": "",
 		"Discord": "https://discord.gg/SVVKBErKNQ",
 		"Web": "",
 		"Wiki": "",
-		"Symbol": "",
+		"Symbol": "flag",
 		"Visitors": "welcome",
 		"Zoom Visibility": 2,
 		"id": 23,
 		"Notes": "Fortified City-State",
 		"Nickname": ""
-	  },
-	  {
-		"Name": "Cluj",
-		"x": 5344,
-		"z": 5627,
-		"Nation": "Transylvania",
-		"Contact": "TransylvaniaMan",
-		"image": "fountain",
+	},
+	{
+		"Name": "",
+		"x": "",
+		"z": "",
+		"Nation": "",
+		"Contact": "",
+		"image": "",
 		"image_album": "",
-		"Discord": "Discord",
+		"Discord": "",
 		"Web": "",
 		"Wiki": "",
-		"Symbol": "flag",
-		"Visitors": "welcome",
-		"Zoom Visibility": 3,
-		"id": 24,
-		"Notes": "Captial of Transylvania",
+		"Symbol": "",
+		"Visitors": "",
+		"Zoom Visibility": "",
+		"id": "",
+		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Treefarmguys",
 		"x": 4712,
 		"z": -3048,
@@ -528,17 +528,17 @@
 		"Contact": "MinersHavenM43",
 		"image": "",
 		"image_album": "",
-		"Discord": "WS Discord",
+		"Discord": "https://discord.gg/2BM7VaxZPf",
 		"Web": "",
-		"Wiki": "Treefarmguys",
+		"Wiki": "Treefarmguyshttps://civwiki.org/wiki/Weirdscraftland#Treefarmguys",
 		"Symbol": "",
 		"Visitors": "welcome",
-		"Zoom Visibility": 4,
+		"Zoom Visibility": 3,
 		"id": 25,
 		"Notes": "Capital of Weirdscraftland",
-		"Nickname": "Treefarm"
-	  },
-	  {
+		"Nickname": "TFG"
+	},
+	{
 		"Name": "Aethia",
 		"x": -2952,
 		"z": 8040,
@@ -555,8 +555,8 @@
 		"id": 26,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Judea",
 		"x": 4050,
 		"z": -750,
@@ -573,8 +573,8 @@
 		"id": 27,
 		"Notes": "Capital City (First Settlement)",
 		"Nickname": "A.U"
-	  },
-	  {
+	},
+	{
 		"Name": "Cragdude",
 		"x": 4541,
 		"z": -3180,
@@ -582,17 +582,17 @@
 		"Contact": "Vejou",
 		"image": "",
 		"image_album": "",
-		"Discord": "",
+		"Discord": "https://discord.gg/2BM7VaxZPf",
 		"Web": "",
-		"Wiki": "Cragdude",
+		"Wiki": "https://civwiki.org/wiki/Weirdscraftland#Cragdude",
 		"Symbol": "",
 		"Visitors": "welcome",
 		"Zoom Visibility": 4,
 		"id": 28,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Valinor",
 		"x": 5385,
 		"z": 7618,
@@ -605,18 +605,54 @@
 		"Wiki": "",
 		"Symbol": "Flag",
 		"Visitors": "welcome",
-		"Zoom Visibility": 3,
+		"Zoom Visibility": 2,
 		"id": 29,
 		"Notes": "Capital of Meracydia",
+		"Nickname": "Valinor"
+	},
+	{
+		"Name": "Dawnstead",
+		"x": 5400,
+		"z": 7926,
+		"Nation": "Meracydia",
+		"Contact": "Xenovolution",
+		"image": "",
+		"image_album": "",
+		"Discord": "Discord",
+		"Web": "",
+		"Wiki": "",
+		"Symbol": "Flag",
+		"Visitors": "welcome",
+		"Zoom Visibility": 4,
+		"id": "",
+		"Notes": "Industrial Farming Town within Meracydia",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
+		"Name": "Corvos",
+		"x": 7666,
+		"z": 1625,
+		"Nation": "Meracydia",
+		"Contact": "IsDataTwinkie, MommaMeow",
+		"image": "",
+		"image_album": "",
+		"Discord": "Discord",
+		"Web": "",
+		"Wiki": "",
+		"Symbol": "Flag",
+		"Visitors": "welcome",
+		"Zoom Visibility": 4,
+		"id": "",
+		"Notes": "Provincial Capital of same-named Exclave",
+		"Nickname": ""
+	},
+	{
 		"Name": "Regentsburgh",
 		"x": -3512,
 		"z": 8850,
 		"Nation": "Regentsburgh (Imperial Federation)",
 		"Contact": "asgeir9",
-		"image": "https://civwiki.org/wiki/File:Regentsburgh_Render.png",
+		"image": "https://civwiki.org/wiki/File:Regentsburgh2023.png",
 		"image_album": "",
 		"Discord": "",
 		"Web": "",
@@ -627,8 +663,8 @@
 		"id": 30,
 		"Notes": "City-State",
 		"Nickname": "Regents"
-	  },
-	  {
+	},
+	{
 		"Name": "Imperia",
 		"x": -3425,
 		"z": 6809,
@@ -641,12 +677,12 @@
 		"Wiki": "",
 		"Symbol": "",
 		"Visitors": "welcome",
-		"Zoom Visibility": 1,
+		"Zoom Visibility": 2,
 		"id": 31,
 		"Notes": "Capital of Imperial Federation",
-		"Nickname": "IF"
-	  },
-	  {
+		"Nickname": ""
+	},
+	{
 		"Name": "New Ottawa",
 		"x": 5444,
 		"z": -3789,
@@ -663,8 +699,8 @@
 		"id": 32,
 		"Notes": "Capital of the RBC",
 		"Nickname": "NEO"
-	  },
-	  {
+	},
+	{
 		"Name": "Białystok",
 		"x": -1200,
 		"z": -2222,
@@ -681,8 +717,8 @@
 		"id": 33,
 		"Notes": "Capital of Warmia",
 		"Nickname": "Białystok Cap. Territory"
-	  },
-	  {
+	},
+	{
 		"Name": "Achiuwa",
 		"x": 5432,
 		"z": -2980,
@@ -699,8 +735,8 @@
 		"id": 34,
 		"Notes": "Capital of Achiuwa",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Vanaheim",
 		"x": -863,
 		"z": 7548,
@@ -717,8 +753,8 @@
 		"id": 35,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Brambory",
 		"x": -345,
 		"z": -6469,
@@ -735,8 +771,8 @@
 		"id": 36,
 		"Notes": "Capital of Angmar Territory",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Tofle",
 		"x": -397,
 		"z": -6880,
@@ -753,8 +789,8 @@
 		"id": 37,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Zanaris",
 		"x": 5,
 		"z": 4708,
@@ -771,8 +807,8 @@
 		"id": 38,
 		"Notes": "Underground City",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Bergburgstadt",
 		"x": 5000,
 		"z": -6200,
@@ -789,8 +825,8 @@
 		"id": 39,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Shiroyama",
 		"x": 3200,
 		"z": 4800,
@@ -807,8 +843,8 @@
 		"id": 40,
 		"Notes": "Capital of Nara",
 		"Nickname": "Shiro"
-	  },
-	  {
+	},
+	{
 		"Name": "Ichinokawa",
 		"x": 3750,
 		"z": 5450,
@@ -825,8 +861,8 @@
 		"id": 41,
 		"Notes": "Farming Village",
 		"Nickname": "Ichi"
-	  },
-	  {
+	},
+	{
 		"Name": "Orakuru",
 		"x": 3600,
 		"z": 7000,
@@ -843,8 +879,8 @@
 		"id": 42,
 		"Notes": "Regional Agricultural Hub",
 		"Nickname": "Ora"
-	  },
-	  {
+	},
+	{
 		"Name": "Q'Barra",
 		"x": 7000,
 		"z": 700,
@@ -861,8 +897,8 @@
 		"id": 43,
 		"Notes": "Aztec/Argonian Jungle Colony, Second City of Nara",
 		"Nickname": "Qbarra"
-	  },
-	  {
+	},
+	{
 		"Name": "Timbuktu",
 		"x": -840,
 		"z": 2940,
@@ -879,8 +915,8 @@
 		"id": 44,
 		"Notes": "West African-Themed Desert/Savannah Colony",
 		"Nickname": "Mali"
-	  },
-	  {
+	},
+	{
 		"Name": "Kajitsu",
 		"x": 3340,
 		"z": 7100,
@@ -897,8 +933,8 @@
 		"id": 45,
 		"Notes": "Quaint Berry Hamlet",
 		"Nickname": "Berry"
-	  },
-	  {
+	},
+	{
 		"Name": "Melontown",
 		"x": -3600,
 		"z": 2050,
@@ -915,8 +951,8 @@
 		"id": 46,
 		"Notes": "Capital city of the New Melonwood territory of Danzilona",
 		"Nickname": "Melon"
-	  },
-	  {
+	},
+	{
 		"Name": "Malina",
 		"x": -7725,
 		"z": -1000,
@@ -933,8 +969,8 @@
 		"id": 47,
 		"Notes": "Capital of Mercutio",
 		"Nickname": "Mercutio"
-	  },
-	  {
+	},
+	{
 		"Name": "Tronjheim",
 		"x": 3275,
 		"z": 5300,
@@ -951,12 +987,12 @@
 		"id": 48,
 		"Notes": "Underground",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Verminblight",
 		"x": -9450,
 		"z": -2600,
-		"Nation": "Icarus (Built By Great Thrall Clan)",
+		"Nation": "Sovia (Built By Great Thrall Clan)",
 		"Contact": "",
 		"image": "",
 		"image_album": "",
@@ -969,12 +1005,12 @@
 		"id": 49,
 		"Notes": "Abandoned - Icarian takeover",
 		"Nickname": "Thrall"
-	  },
-	  {
-		"Name": "Al Qasba",
+	},
+	{
+		"Name": "Al Qaṣba",
 		"x": -6400,
 		"z": 1717,
-		"Nation": "Dominion of Reggio (Icarus)",
+		"Nation": "Corporate Dominion of Reggio (Icarus)",
 		"Contact": "Zyra_Bot & ImperialRex",
 		"image": "",
 		"image_album": "",
@@ -985,10 +1021,10 @@
 		"Visitors": "welcome",
 		"Zoom Visibility": 3,
 		"id": 50,
-		"Notes": "Capital of the Dominion of Reggio",
+		"Notes": "Capital of the Corporate Dominion of Reggio",
 		"Nickname": "Reggio"
-	  },
-	  {
+	},
+	{
 		"Name": "Temporal Isles",
 		"x": -1800,
 		"z": -5800,
@@ -1005,8 +1041,8 @@
 		"id": 51,
 		"Notes": "Capital of Temporal Isles",
 		"Nickname": "TI"
-	  },
-	  {
+	},
+	{
 		"Name": "Winterbourne Castle",
 		"x": -60,
 		"z": -7555,
@@ -1023,14 +1059,14 @@
 		"id": 52,
 		"Notes": "Capital city of Winterbourne.",
 		"Nickname": "Wintercastle"
-	  },
-	  {
+	},
+	{
 		"Name": "Sealeo",
 		"x": 2084,
 		"z": -3976,
 		"Nation": "Griffin",
 		"Contact": "Cosbin",
-		"image": "",
+		"image": "https://media.discordapp.net/attachments/381522903084040193/1124470963405332540/2023-06-30_23.30.15.png",
 		"image_album": "",
 		"Discord": "https://discord.gg/e3Vjuxfp",
 		"Web": "",
@@ -1041,8 +1077,8 @@
 		"id": 53,
 		"Notes": "Duchy of Griffin",
 		"Nickname": "Sealeo"
-	  },
-	  {
+	},
+	{
 		"Name": "Sanrovia",
 		"x": -2383,
 		"z": 9471,
@@ -1055,12 +1091,12 @@
 		"Wiki": "",
 		"Symbol": "",
 		"Visitors": "welcome",
-		"Zoom Visibility": 3,
+		"Zoom Visibility": 5,
 		"id": 54,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Yoshiwara",
 		"x": 4080,
 		"z": 6580,
@@ -1077,8 +1113,8 @@
 		"id": 55,
 		"Notes": "Former newfriend village, becoming resort eventually",
 		"Nickname": "Yoshi"
-	  },
-	  {
+	},
+	{
 		"Name": "Sunatoride",
 		"x": 3950,
 		"z": 6000,
@@ -1095,8 +1131,8 @@
 		"id": 56,
 		"Notes": "Defunct newfriend settlement in Central Nara",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Adria",
 		"x": 2598,
 		"z": -4002,
@@ -1113,48 +1149,48 @@
 		"id": 57,
 		"Notes": "Capital city of Griffin",
 		"Nickname": "Adria"
-	  },
-	  {
+	},
+	{
 		"Name": "Cluj-Napoca",
-		"x": 5300,
-		"z": 5600,
+		"x": 5344,
+		"z": 5627,
 		"Nation": "Cluj Region (Transylvania)",
 		"Contact": "TransylvaniaMan (permanent contact, redirects to president)",
 		"image": "https://media.discordapp.net/attachments/958677327305388082/1117094155626221618/Screenshot_2023-06-07_232553.png",
 		"image_album": "soon",
 		"Discord": "https://discord.gg/NZKxNvvgwu",
 		"Web": "",
-		"Wiki": "wtf no thx",
+		"Wiki": "N/A",
 		"Symbol": "https://media.discordapp.net/attachments/1094630885141270618/1094630885367754874/Cluj_Napoca.png",
 		"Visitors": "welcome",
 		"Zoom Visibility": 2,
 		"id": 58,
 		"Notes": "Capital of Transylvania",
 		"Nickname": "Cluj"
-	  },
-	  {
+	},
+	{
 		"Name": "Bakaborough",
 		"x": 5600,
 		"z": -1500,
-		"Nation": "(built by Terra Leporis Maximi)",
+		"Nation": "Bakaborough, disputed by Zephyria",
 		"Contact": "Magnileve",
 		"image": "",
 		"image_album": "",
-		"Discord": "",
+		"Discord": "https://discord.gg/PGKwQbuS9u",
 		"Web": "",
 		"Wiki": "",
 		"Symbol": "",
-		"Visitors": "welcome",
+		"Visitors": "ask beforehand",
 		"Zoom Visibility": 4,
 		"id": 59,
-		"Notes": "Previous capital of TLM, formerly called Wabbittown. Abandoned.",
+		"Notes": "Original and main settlement of Bakaborough, previously Terra Leporis Maximi.",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Burlington",
 		"x": -6400,
 		"z": 7500,
-		"Nation": "Imperial Federation (Vermont)",
+		"Nation": "Vermont (Imperial Federation)",
 		"Contact": "Korvenov",
 		"image": "https://cdn.discordapp.com/attachments/1117266399396630589/1117587410902073375/image.png",
 		"image_album": "",
@@ -1167,26 +1203,26 @@
 		"id": 60,
 		"Notes": "Located in the State of Vermont, Imperial Federation",
 		"Nickname": "Vermont"
-	  },
-	  {
-		"Name": "Stallman",
+	},
+	{
+		"Name": "Impendian Bakaborough",
 		"x": 4400,
 		"z": -7000,
-		"Nation": "(built by Terra Leporis Maximi)",
+		"Nation": "Bakaborough",
 		"Contact": "Magnileve",
 		"image": "",
 		"image_album": "",
-		"Discord": "",
+		"Discord": "https://discord.gg/PGKwQbuS9u",
 		"Web": "",
 		"Wiki": "",
 		"Symbol": "",
 		"Visitors": "welcome",
 		"Zoom Visibility": 4,
 		"id": 61,
-		"Notes": "Previous capital of TLM. Abandoned.",
+		"Notes": "Previous main settlement of Terra Leporis Maximi, now Bakaborough.",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Brasov",
 		"x": 5140,
 		"z": 5800,
@@ -1203,8 +1239,8 @@
 		"id": 62,
 		"Notes": "Former Newfriend city, soon to be bringed back to life",
 		"Nickname": "Brasov"
-	  },
-	  {
+	},
+	{
 		"Name": "Christmas Town",
 		"x": 100,
 		"z": -9860,
@@ -1221,8 +1257,8 @@
 		"id": 63,
 		"Notes": "Christmas Town",
 		"Nickname": "Christmas Town"
-	  },
-	  {
+	},
+	{
 		"Name": "The North Pole",
 		"x": 0,
 		"z": -10000,
@@ -1239,8 +1275,8 @@
 		"id": 64,
 		"Notes": "The North Pole",
 		"Nickname": "North Pole"
-	  },
-	  {
+	},
+	{
 		"Name": "Iliac",
 		"x": 1524,
 		"z": -3638,
@@ -1257,8 +1293,8 @@
 		"id": 65,
 		"Notes": "Duchy of Griffin",
 		"Nickname": "Iliac"
-	  },
-	  {
+	},
+	{
 		"Name": "Cape Cocoa",
 		"x": 4167,
 		"z": -2452,
@@ -1275,8 +1311,8 @@
 		"id": 66,
 		"Notes": "Administrated by Chungia Province",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Bazariskes",
 		"x": 2656,
 		"z": -1473,
@@ -1293,8 +1329,8 @@
 		"id": 67,
 		"Notes": "Administrated by Valle Occidental Province",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Heavensroost",
 		"x": 3046,
 		"z": -1948,
@@ -1311,8 +1347,8 @@
 		"id": 68,
 		"Notes": "Administrated by Valle Occidental Province",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Margaritaville",
 		"x": 3307,
 		"z": -677,
@@ -1329,8 +1365,8 @@
 		"id": 69,
 		"Notes": "Administrated by Margaritaville Province",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Kota Kabanuan",
 		"x": 4530,
 		"z": -626,
@@ -1347,9 +1383,9 @@
 		"id": 70,
 		"Notes": "Directly controlled by Lambat government",
 		"Nickname": ""
-	  },
-	  {
-		"Name": "Wild East",
+	},
+	{
+		"Name": "Ruby",
 		"x": 8515,
 		"z": 1996,
 		"Nation": "Duskwood (Yoahtl)",
@@ -1361,12 +1397,12 @@
 		"Wiki": "",
 		"Symbol": "",
 		"Visitors": "welcome",
-		"Zoom Visibility": 3,
+		"Zoom Visibility": 4,
 		"id": 71,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Mosskow",
 		"x": 5850,
 		"z": -6530,
@@ -1383,8 +1419,8 @@
 		"id": 72,
 		"Notes": "Capital city of Fempire Union",
 		"Nickname": "FU"
-	  },
-	  {
+	},
+	{
 		"Name": "Farmingrad",
 		"x": 6200,
 		"z": -6160,
@@ -1401,8 +1437,8 @@
 		"id": 73,
 		"Notes": "Farm and market",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Isle of the Beeholder",
 		"x": 6250,
 		"z": -5000,
@@ -1419,8 +1455,8 @@
 		"id": 74,
 		"Notes": "Connection to nether portal",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Menelec",
 		"x": 3525,
 		"z": -4275,
@@ -1437,13 +1473,13 @@
 		"id": 75,
 		"Notes": "Current Capital Of Amboise",
 		"Nickname": "Amboise"
-	  },
-	  {
+	},
+	{
 		"Name": "New Danzilona",
 		"x": 5242,
 		"z": 4533,
 		"Nation": "Danzilona",
-		"Contact": "Azelair, ninjajackh12",
+		"Contact": "peakman2, ninjajackh12",
 		"image": "https://i.imgur.com/RxOml4q.png",
 		"image_album": "",
 		"Discord": "https://discord.gg/eQGAC7VZ6D",
@@ -1455,8 +1491,8 @@
 		"id": 76,
 		"Notes": "Capital city of FWC Danzilona",
 		"Nickname": "Danzilona"
-	  },
-	  {
+	},
+	{
 		"Name": "New Swisston",
 		"x": 1883,
 		"z": 8851,
@@ -1473,12 +1509,12 @@
 		"id": 77,
 		"Notes": "Ranubic Holy City",
 		"Nickname": "NewSwiss"
-	  },
-	  {
+	},
+	{
 		"Name": "Petergrad",
 		"x": -4100,
 		"z": 1000,
-		"Nation": "North Africa (Imperial Federation)",
+		"Nation": "North Africa (Commonwealth)",
 		"Contact": "OakShelf",
 		"image": "https://imgur.com/VEBZxW4",
 		"image_album": "",
@@ -1491,8 +1527,8 @@
 		"id": 78,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Port Capitola",
 		"x": -8100,
 		"z": 3700,
@@ -1509,8 +1545,8 @@
 		"id": 79,
 		"Notes": "Capital of the U.T.S.S. (Construction Ongoing)",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Blue Cove",
 		"x": -9100,
 		"z": -500,
@@ -1527,26 +1563,8 @@
 		"id": 80,
 		"Notes": "",
 		"Nickname": "Icarus"
-	  },
-	  {
-		"Name": "Masuno",
-		"x": -6340,
-		"z": 2440,
-		"Nation": "Dominion of Reggio (Icarus)",
-		"Contact": "Zyra_Bot & ImperialRex (caretakers of the City)",
-		"image": "",
-		"image_album": "",
-		"Discord": "",
-		"Web": "",
-		"Wiki": "https://civwiki.org/wiki/Masuno",
-		"Symbol": "",
-		"Visitors": "welcome",
-		"Zoom Visibility": 3,
-		"id": 81,
-		"Notes": "Toki Pona City- Now a Heritage Site for Reggio",
-		"Nickname": "Masuno"
-	  },
-	  {
+	},
+	{
 		"Name": "Roma",
 		"x": 3000,
 		"z": -5400,
@@ -1559,16 +1577,16 @@
 		"Wiki": "https://civwiki.org/wiki/SPQR",
 		"Symbol": "https://imgur.com/aIY4DTf",
 		"Visitors": "welcome",
-		"Zoom Visibility": 3,
+		"Zoom Visibility": 1,
 		"id": 82,
 		"Notes": "",
 		"Nickname": "S.P.Q.R."
-	  },
-	  {
-		"Name": "Dunetown",
+	},
+	{
+		"Name": "Dunestone",
 		"x": 9000,
 		"z": -1700,
-		"Nation": "Zephyria",
+		"Nation": "Gang Shi",
 		"Contact": "max_wall",
 		"image": "https://media.discordapp.net/attachments/1115225770948821112/1118940361730031727/2023-06-15_12.20.59.png?width=1202&height=676",
 		"image_album": "",
@@ -1577,12 +1595,12 @@
 		"Wiki": "",
 		"Symbol": "https://media.discordapp.net/attachments/1118751993775804577/1118760971989692487/Zephyria_CoA.png?width=559&height=676",
 		"Visitors": "welcome",
-		"Zoom Visibility": 3,
+		"Zoom Visibility": 4,
 		"id": 83,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Pride Rock",
 		"x": -2250,
 		"z": 9200,
@@ -1599,8 +1617,8 @@
 		"id": 84,
 		"Notes": "Formed Pridelands capital, no longer state",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Anor Londo X",
 		"x": -2400,
 		"z": 6300,
@@ -1617,13 +1635,13 @@
 		"id": 85,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Vallstena",
 		"x": -5000,
 		"z": 8300,
-		"Nation": "Gotland (Imperial Federation)",
-		"Contact": "Aeth",
+		"Nation": "Gotland (Rivia)",
+		"Contact": "Aeth, Spoonce",
 		"image": "https://civwiki.org/wiki/File:Vallstena_Render.png",
 		"image_album": "",
 		"Discord": "https://discord.gg/bCbWBWrP68",
@@ -1635,8 +1653,8 @@
 		"id": 86,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Halland",
 		"x": -2000,
 		"z": 7850,
@@ -1653,14 +1671,14 @@
 		"id": 87,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
-		"Name": "New Felicty",
+	},
+	{
+		"Name": "New Felicity",
 		"x": -2750,
 		"z": 7900,
-		"Nation": "FELINE (Imperial Federation)",
-		"Contact": "s0uthw3st",
-		"image": "",
+		"Nation": "FELINE (Nalora)",
+		"Contact": "That1aro_cat, s0uthw3st, CapianColton",
+		"image": "https://civwiki.org/wiki/File:FELINE2023.png",
 		"image_album": "",
 		"Discord": "https://discord.gg/bCbWBWrP70",
 		"Web": "",
@@ -1671,30 +1689,30 @@
 		"id": 88,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
-		"Name": "Freeport",
-		"x": -3384,
-		"z": 4340,
-		"Nation": "Freeport (Imperial Federation)",
-		"Contact": "crazando",
-		"image": "",
+	},
+	{
+		"Name": "Simensen Freeport",
+		"x": -3385,
+		"z": 4379,
+		"Nation": "Pride Isles",
+		"Contact": "s0uthw3st",
+		"image": "https://raw.githubusercontent.com/OneDest/data/master/images/freeport.png",
 		"image_album": "",
-		"Discord": "https://discord.gg/bCbWBWrP71",
+		"Discord": "https://discord.gg/jxbyeXJc2m",
 		"Web": "",
-		"Wiki": "",
+		"Wiki": "https://civwiki.org/wiki/Pride_Isles",
 		"Symbol": "",
 		"Visitors": "welcome",
 		"Zoom Visibility": 2,
 		"id": 89,
-		"Notes": "",
-		"Nickname": ""
-	  },
-	  {
+		"Notes": "Current Capital of the Pride Isles",
+		"Nickname": "Freeport"
+	},
+	{
 		"Name": "Acoompong Town",
 		"x": -5300,
 		"z": 4700,
-		"Nation": "Grenada (Imperial Federation)",
+		"Nation": "Grenada",
 		"Contact": "ComradeSankara",
 		"image": "https://civwiki.org/wiki/File:Stros_Mkai_at_night.png",
 		"image_album": "",
@@ -1707,12 +1725,12 @@
 		"id": 90,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Esberg",
 		"x": -1900,
 		"z": 7050,
-		"Nation": "Midgard (Imperial Federation)",
+		"Nation": "Esberg (Imperial Federation)",
 		"Contact": "",
 		"image": "",
 		"image_album": "",
@@ -1725,16 +1743,16 @@
 		"id": 91,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Comanche",
 		"x": -3050,
 		"z": 7550,
-		"Nation": "Comanche (Imperial Federation)",
-		"Contact": "TheRisdenUndead",
+		"Nation": "Nalora (Imperial Federation)",
+		"Contact": "CapianColton",
 		"image": "",
 		"image_album": "",
-		"Discord": "https://discord.gg/bCbWBWrP74",
+		"Discord": "https://discord.gg/FeGwaTMATE",
 		"Web": "",
 		"Wiki": "",
 		"Symbol": "",
@@ -1743,13 +1761,13 @@
 		"id": 92,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
+	},
+	{
 		"Name": "Kilhajio",
 		"x": -8900,
 		"z": 2000,
 		"Nation": "Joseon (Imperial Federation)",
-		"Contact": "Aeth",
+		"Contact": "Aetherix",
 		"image": "https://civwiki.org/wiki/File:Kilahijo_render.png",
 		"image_album": "",
 		"Discord": "https://discord.gg/bCbWBWrP75",
@@ -1761,24 +1779,276 @@
 		"id": 93,
 		"Notes": "",
 		"Nickname": ""
-	  },
-	  {
-		"Name": "Kopalin",
+	},
+	{
+		"Name": "Avila",
 		"x": -3678,
 		"z": 7400,
-		"Nation": "Kodiak (Imperial Federation)",
-		"Contact": "Ghas",
-		"image": "",
+		"Nation": "Nalora (Imperial Federation)",
+		"Contact": "Ghas__",
+		"image": "https://civwiki.org/wiki/File:Kopalin2023.png",
 		"image_album": "",
-		"Discord": "https://discord.gg/bCbWBWrP76",
+		"Discord": "https://discord.gg/FeGwaTMATE",
 		"Web": "",
-		"Wiki": "",
+		"Wiki": "https://civwiki.org/wiki/Nalora",
 		"Symbol": "",
 		"Visitors": "welcome",
 		"Zoom Visibility": 4,
 		"id": 94,
 		"Notes": "",
 		"Nickname": ""
-	  }
+	},
+	{
+		"Name": "Nidaros",
+		"x": 6650,
+		"z": 6402,
+		"Nation": "Truidencia",
+		"Contact": "Zeldrïn",
+		"image": "",
+		"image_album": "",
+		"Discord": "https://discord.gg/ZVTeQUNbwT",
+		"Web": "",
+		"Wiki": "",
+		"Symbol": "",
+		"Visitors": "welcome",
+		"Zoom Visibility": 2,
+		"id": 95,
+		"Notes": "",
+		"Nickname": ""
+	},
+	{
+		"Name": "Kodiak",
+		"x": -3565,
+		"z": 7645,
+		"Nation": "Nalora (Imperial Federation)",
+		"Contact": "CapianColton",
+		"image": "https://civwiki.org/wiki/File:CityOfKodiakImage.jpg",
+		"image_album": "",
+		"Discord": "https://discord.gg/FeGwaTMATE",
+		"Web": "",
+		"Wiki": "https://civwiki.org/wiki/Nalora",
+		"Symbol": "",
+		"Visitors": "welcome",
+		"Zoom Visibility": 3,
+		"id": 96,
+		"Notes": "State Capital of Nalora (Construction Ongoing)",
+		"Nickname": ""
+	},
+	{
+		"Name": "Concord",
+		"x": 5000,
+		"z": 3070,
+		"Nation": "Cortesia Del Mar",
+		"Contact": "Vedd",
+		"image": "https://cdn.discordapp.com/attachments/695047341945651200/1121644868104634368/image.png",
+		"image_album": "",
+		"Discord": "https://discord.gg/dJGK3AK2wV",
+		"Web": "",
+		"Wiki": "https://civwiki.org/wiki/Cortesia_Del_Mar_(CivMC)",
+		"Symbol": "",
+		"Visitors": "welcome",
+		"Zoom Visibility": 2,
+		"id": 97,
+		"Notes": "Capital of Cortesia Del Mar",
+		"Nickname": "Concord"
+	},
+	{
+		"Name": "City of England",
+		"x": "3775,",
+		"z": -5941,
+		"Nation": "City of England",
+		"Contact": "Blob",
+		"image": "https://i.imgur.com/XNT2myW.png",
+		"image_album": "",
+		"Discord": "",
+		"Web": "",
+		"Wiki": "https://civwiki.org/wiki/City_of_England",
+		"Symbol": "",
+		"Visitors": "welcome",
+		"Zoom Visibility": 3,
+		"id": 98,
+		"Notes": "",
+		"Nickname": ""
+	},
+	{
+		"Name": "Lugdunum",
+		"x": 2726,
+		"z": -6579,
+		"Nation": "S.P.Q.R.",
+		"Contact": "Alberlb96, Mark_Antony",
+		"image": "",
+		"image_album": "",
+		"Discord": "https://discord.gg/D4VHT3RfBr",
+		"Web": "",
+		"Wiki": "",
+		"Symbol": "",
+		"Visitors": "ask beforehand",
+		"Zoom Visibility": 3,
+		"id": 99,
+		"Notes": "",
+		"Nickname": ""
+	},
+	{
+		"Name": "Tenochtitlan",
+		"x": 2910,
+		"z": -7933,
+		"Nation": "S.P.Q.R.",
+		"Contact": "Alberlb96, Mark_Antony, Ancom_thepolpot",
+		"image": "",
+		"image_album": "",
+		"Discord": "https://discord.gg/D4VHT3RfBr",
+		"Web": "",
+		"Wiki": "",
+		"Symbol": "",
+		"Visitors": "ask beforehand",
+		"Zoom Visibility": 5,
+		"id": 100,
+		"Notes": "",
+		"Nickname": ""
+	},
+	{
+		"Name": "Solis",
+		"x": 2485,
+		"z": -5313,
+		"Nation": "S.P.Q.R.",
+		"Contact": "Alberlb96, Mark_Antony",
+		"image": "https://media.discordapp.net/attachments/988334746801143828/1024804588093714503/2022-09-29_00.05.13.png?width=1276&height=676",
+		"image_album": "",
+		"Discord": "https://discord.gg/D4VHT3RfBr",
+		"Web": "",
+		"Wiki": "",
+		"Symbol": "",
+		"Visitors": "welcome",
+		"Zoom Visibility": 4,
+		"id": 101,
+		"Notes": "",
+		"Nickname": ""
+	},
+	{
+		"Name": "Septentria",
+		"x": 3141,
+		"z": 6017,
+		"Nation": "S.P.Q.R.",
+		"Contact": "Alberlb96, Mark_Antony",
+		"image": "",
+		"image_album": "",
+		"Discord": "https://discord.gg/D4VHT3RfBr",
+		"Web": "",
+		"Wiki": "",
+		"Symbol": "",
+		"Visitors": "welcome",
+		"Zoom Visibility": 5,
+		"id": 102,
+		"Notes": "",
+		"Nickname": ""
+	},
+	{
+		"Name": "The Citadel",
+		"x": 2423,
+		"z": 8109,
+		"Nation": "The Guild of the Travelers",
+		"Contact": "Magme_Valerio",
+		"image": "https://imgur.com/a/yboK0gU",
+		"image_album": "",
+		"Discord": "",
+		"Web": "",
+		"Wiki": "",
+		"Symbol": "https://imgur.com/a/GKlhE7n",
+		"Visitors": "welcome",
+		"Zoom Visibility": 3,
+		"id": 103,
+		"Notes": "Main Stronghold for the Travelers of the World",
+		"Nickname": "The Citadel"
+	},
+	{
+		"Name": "Christopia",
+		"x": -2368,
+		"z": 6983,
+		"Nation": "Vouxia (Imperial Federation)",
+		"Contact": "td_d_ian",
+		"image": "",
+		"image_album": "",
+		"Discord": "https://discord.gg/zjEgDqre",
+		"Web": "",
+		"Wiki": "",
+		"Symbol": "",
+		"Visitors": "welcome",
+		"Zoom Visibility": 3,
+		"id": 104,
+		"Notes": "Capital of Vouxia.",
+		"Nickname": ""
+	},
+	{
+		"Name": "Amicitia",
+		"x": 711,
+		"z": 3770,
+		"Nation": "The Kingdom Of Amicitia",
+		"Contact": "BlueBox97, Jjonthan",
+		"image": "https://imgur.com/a/o9u9dJK",
+		"image_album": "",
+		"Discord": "https://discord.gg/vz8aQn8gcA",
+		"Web": "",
+		"Wiki": "",
+		"Symbol": "https://imgur.com/a/4cSRpVp",
+		"Visitors": "welcome",
+		"Zoom Visibility": 2,
+		"id": 105,
+		"Notes": "Capital of Amicitia",
+		"Nickname": "Amicitia"
+	},
+	{
+		"Name": "Eire",
+		"x": 1544,
+		"z": 3573,
+		"Nation": "The Kingdom Of Amicitia",
+		"Contact": "BlueBox97, Jjonthan",
+		"image": "",
+		"image_album": "",
+		"Discord": "https://discord.gg/vz8aQn8gcA",
+		"Web": "",
+		"Wiki": "",
+		"Symbol": "https://imgur.com/a/4cSRpVp",
+		"Visitors": "welcome",
+		"Zoom Visibility": 3,
+		"id": 106,
+		"Notes": "Amicitian Farm Land",
+		"Nickname": "Eire"
+	},
+	{
+		"Name": "Hell",
+		"x": -1821,
+		"z": 2496,
+		"Nation": "The Province of Hell",
+		"Contact": "Byhalia",
+		"image": "https://cdn.discordapp.com/attachments/963450138192404491/1139595265351880764/2023-08-11_11.23.59.png",
+		"image_album": "",
+		"Discord": "https://discord.gg/CrzwcHfSKV",
+		"Web": "",
+		"Wiki": "",
+		"Symbol": "https://cdn.discordapp.com/attachments/957458595132366908/1139596787733246035/Hell7downscaled25.png",
+		"Visitors": "welcome",
+		"Zoom Visibility": 2,
+		"id": 107,
+		"Notes": "",
+		"Nickname": "Hell"
+	},
+	{
+		"Name": "Commonwealth",
+		"x": -3994,
+		"z": 64,
+		"Nation": "The Commonwealth",
+		"Contact": "reffelruz, Bowilla",
+		"image": "https://cdn.discordapp.com/attachments/1022839472007696524/1139600286755852378/2023-08-11_11.44.20.png",
+		"image_album": "",
+		"Discord": "https://discord.gg/ehCwAq6ZJX",
+		"Web": "",
+		"Wiki": "https://civwiki.org/wiki/The_Commonwealth",
+		"Symbol": "https://static.miraheze.org/civwikiwiki/5/55/Commonwealth_flag.png",
+		"Visitors": "welcome",
+		"Zoom Visibility": 1,
+		"id": 108,
+		"Notes": "",
+		"Nickname": "Commonwealth"
+	}
 	]
 }
