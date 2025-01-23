@@ -104,7 +104,7 @@
 		  "Zoom Visibility": 1,
 		  "id": 1,
 		  "Notes": "Trenched City and Capital of Yoahtl",
-		  "Nickname": "Yodel"
+		  "Nickname": "Yoahtl"
 		},
 		{
 		  "Name": "Brunsvik",
@@ -266,7 +266,7 @@
 		  "Zoom Visibility": 1,
 		  "id": 10,
 		  "Notes": "",
-		  "Nickname": "Mir"
+		  "Nickname": "Estalia"
 		},
 		{
 		  "Name": "Winterbourne Castle",
@@ -283,26 +283,8 @@
 		  "Visitors": "welcome",
 		  "Zoom Visibility": 1,
 		  "id": 11,
-		  "Notes": "Capital city of Winterbourne. Your OMN is not a major city bruh",
+		  "Notes": "Capital city of Winterbourne.",
 		  "Nickname": "Wintercastle"
-		},
-		{
-		  "Name": "Bergburgstadt",
-		  "x": 5000,
-		  "z": -6200,
-		  "Nation": "None",
-		  "Contact": "Sam_Hyde",
-		  "image": "[Fill]",
-		  "image_album": "",
-		  "Discord": "Private",
-		  "Web": "",
-		  "Wiki": "",
-		  "Symbol": "",
-		  "Visitors": "welcome",
-		  "Zoom Visibility": 2,
-		  "id": 13,
-		  "Notes": "",
-		  "Nickname": "Bergburg"
 		},
 		{
 		  "Name": "Accra City",
@@ -631,7 +613,7 @@
 		{
 		  "Name": "Maugate",
 		  "x": -2100,
-		  "z": -6330,
+		  "z": 6330,
 		  "Nation": "Maugate (I.F.)",
 		  "Contact": "Salizandar",
 		  "image": "[Fill]",
@@ -1343,7 +1325,7 @@
 		  "Wiki": "CivWiki",
 		  "Symbol": "",
 		  "Visitors": "welcome",
-		  "Zoom Visibility": 3,
+		  "Zoom Visibility": 2,
 		  "id": 71,
 		  "Notes": "Capital of Bloom",
 		  "Nickname": ""
