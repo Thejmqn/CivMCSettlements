@@ -41,12 +41,19 @@
 			},
 			"zoom_styles": {
 				"-6": {
-					"label": "$Nickname",
+					"label": {
+						"default": "",
+						"feature_key": "Zoom Visibility",
+						"categories": {
+							"1": "$Nickname"
+						}
+					},
 					"opacity": {
 						"default": 0,
 						"feature_key": "Zoom Visibility",
 						"categories": {
-							"1": 1
+							"1": 1,
+							"2": 1
 						}
 					}
 				},
@@ -56,8 +63,7 @@
 						"feature_key": "Zoom Visibility",
 						"categories": {
 							"1": "$Name",
-							"2": "$Name",
-							"3": ""
+							"2": "$Name"
 						}
 					},
 					"opacity": {
