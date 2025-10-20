@@ -5188,5 +5188,41 @@
     "Notes": "Seastead built by Bloxernistan prior to settling in Calavera.",
     "Nickname": ""
   }
+  {
+    "Name": "Aurilles",
+    "x": -4864,
+    "z": -7854,
+    "Nation": "Melvera",
+    "Contact": "",
+    "image": "",
+    "image_album": "",
+    "Discord": "https://discord.gg/bK6puhKtrw",
+    "Web": "https://civmcmelvera.github.io/",
+    "Wiki": "https://civwiki.org/wiki/Melvera",
+    "Symbol": "https://static.wikitide.net/civwikiwiki/c/cf/MelveraCoatofArms.png",
+    "Visitors": "welcome",
+    "Zoom Visibility": 2,
+    "id": 290,
+    "Notes": "Capital city and province of Melvera",
+    "Nickname": "Aurilles"
+  }
+  {
+    "Name": "New Postmorphia",
+    "x": -5123,
+    "z": -8106,
+    "Nation": "Melvera",
+    "Contact": "",
+    "image": "",
+    "image_album": "",
+    "Discord": "https://discord.gg/bK6puhKtrw",
+    "Web": "https://civmcmelvera.github.io/",
+    "Wiki": "https://civwiki.org/wiki/Melvera",
+    "Symbol": "https://static.wikitide.net/civwikiwiki/c/cf/MelveraCoatofArms.png",
+    "Visitors": "ask beforehand",
+    "Zoom Visibility": 3,
+    "id": 291,
+    "Notes": "Suburban settlement in Melvera",
+    "Nickname": "Bushberry"
+  }
 ]
 }
