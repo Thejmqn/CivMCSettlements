@@ -27,6 +27,9 @@ jobs:
       - name: Get timestamp for PR Title
         run: echo "timestamp=$(date +'%Y-%m-%dT%H_%M_%S')" >> $GITHUB_ENV
 
+      - name: Move file to root of repository
+        run: mv .github/scripts/generate_civ_settlements/CivMCSettlements.json CivMCSettlements.json
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
