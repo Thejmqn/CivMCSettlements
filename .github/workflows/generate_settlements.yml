@@ -1,0 +1,44 @@
+name: Generate CivMC Settlements
+run-name: Generate CivMC Settlements  ${{ github.run_number }}
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-settlements:
+    permissions:
+      contents: write
+      pull-requests: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Run settlements generation script
+        run: |
+          cd .github/scripts/generate_civ_settlements
+          uv sync
+          uv run main.py
+
+      - name: Get timestamp for PR Title
+        run: echo "timestamp=$(date +'%Y-%m-%dT%H_%M_%S')" >> $GITHUB_ENV
+
+      - name: Move file to root of repository
+        run: mv .github/scripts/generate_civ_settlements/CivMCSettlements.json CivMCSettlements.json
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: feature/settlements-
+          branch-suffix: timestamp
+          commit-message: "Update generated settlements"
+          title: "Add generated settlements (${{ env.timestamp }})"
+          body: |
+            This PR adds the latest generated settlements output.
+
+            - Generated at: `${{ env.timestamp }}`
